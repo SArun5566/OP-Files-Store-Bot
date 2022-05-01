@@ -28,7 +28,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/03moviesclub/OP-Files-Store-Bot)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SArun5566/OP-Files-Store-Bot)</br>
 #### Deploy in your VPS
 ````bash
 git clone https://github.com/Aadhi000/OP-Files-Store-Bot
